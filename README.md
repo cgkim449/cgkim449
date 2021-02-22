@@ -21,8 +21,6 @@ Java                     5 repos             ███████████�
 HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
-![](https://komarev.com/ghpvc/?username=cgkim449&color=blue)
-
 
 <!--END_SECTION:waka-->
 <!--
