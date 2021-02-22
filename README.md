@@ -14,15 +14,6 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Java** 
-
-```text
-Java                     5 repos             ████████████████████░░░░░   83.33% 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 <!--
