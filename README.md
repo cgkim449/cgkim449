@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231518%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230757%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,8 +23,8 @@ Eclipse                  1 min               ░░░░░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     5 repos             █████████████████░░░░░░░░   71.43% 
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
+Java                     6 repos             █████████████████████░░░░   85.71% 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
