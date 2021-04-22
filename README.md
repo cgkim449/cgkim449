@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230655%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-229977%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,8 +19,8 @@ IntelliJ                 30 mins             ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     6 repos             █████████████████████░░░░   85.71% 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+Java                     5 repos             ████████████████████░░░░░   83.33% 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
 
